@@ -19,9 +19,14 @@ export const Footer = ({}) => {
       <div className="ngc-footer-bottom">
         <Logo type="negative" showBorder={true} />
         <p style={{ flexGrow: 0.5 }}></p>
-        <div style={{ display: "flex", flexDirection: "column" }}>
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            justifyContent: "space-between",
+          }}
+        >
           <p>Unsere Standorte</p>
-          <p style={{ flexGrow: 1 }}></p>
           <div className="locations">
             <div>
               <b>Wolfsburg</b>

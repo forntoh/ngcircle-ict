@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+.cta-wrapper {
+  font-family: "Open Sans", sans-serif;
+  border-bottom: 1px solid #cccccc;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cta-wrapper .desc {
+    font-weight: 200;
+    font-size: 60px;
+    line-height: 1;
+    max-width: 760px;
+    margin-left: 140px;
+}
