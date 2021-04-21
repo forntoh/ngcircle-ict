@@ -1,0 +1,16 @@
+.wrapper {
+  font-family: 'Open Sans', sans-serif;
+  border-bottom: 1px solid #CCCCCC;
+  padding: 43px 140px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wrapper img {
+    display: inline-block;
+}
+
+button + button {
+  margin-left: 10px;
+}

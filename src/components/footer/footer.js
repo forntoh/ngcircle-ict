@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
 
 import { Button } from "../button/button";
 import { Logo } from "../logo/logo";
