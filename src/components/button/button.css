@@ -1,0 +1,36 @@
+.ngc-button {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+}
+
+.ngc-button--primary {
+  color: white;
+  width: 538px;
+  height: 260px;
+  display: flex;
+  flex-direction: row;
+}
+
+.ngc-button--primary svg {
+  margin-top: 47px;
+}
+
+.ngc-button--primary p {
+  line-height: 1.4;
+  margin-top: 41px;
+  margin-left: 32px;
+  font-size: 30px;
+}
+
+.ngc-button--secondary {
+  padding: 0 12pt;
+  font-size: 20px;
+  background-color: transparent;
+}
+
+.ngc-button--secondary-dark {
+  color: white;
+}

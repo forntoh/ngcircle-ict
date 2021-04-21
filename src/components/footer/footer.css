@@ -1,0 +1,29 @@
+footer {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  padding: 80px 140px;
+}
+
+.ngc-footer-top {
+    display: flex;
+    flex-direction: row;
+}
+
+.ngc-footer-bottom {
+    display: flex;
+    flex-direction: row;
+    margin-top: 48px;
+    font-size: 16px;
+}
+
+.ngc-footer-bottom .locations {
+    display: flex;
+    flex-direction: row;
+    line-height: 1.6;
+}
+
+.ngc-footer-bottom .locations div, .ngc-footer-bottom div p {
+    margin: auto 50px;
+}
