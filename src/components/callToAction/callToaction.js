@@ -7,7 +7,7 @@ import { Button } from "../button/button";
 export const CallToAction = ({ label, description, backgroundColor, ...props }) => (
   <section>
     <div className="cta-wrapper">
-      <div className="desc">{description}</div>
+      <h1 className="desc">{description}</h1>
       <Button label={label} backgroundColor={backgroundColor} />
     </div>
   </section>

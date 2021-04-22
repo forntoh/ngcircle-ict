@@ -5,10 +5,7 @@
   justify-content: space-between;
 }
 
-.cta-wrapper .desc {
-    font-weight: 200;
-    font-size: 60px;
-    line-height: 1;
+.cta-wrapper h1 {
     max-width: 760px;
     margin-left: 140px;
 }

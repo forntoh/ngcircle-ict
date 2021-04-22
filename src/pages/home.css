@@ -20,3 +20,31 @@
   background-color: #c00000;
   color: white;
 }
+
+.wrapper-values {
+  display: grid;
+  overflow: hidden;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.wrapper-values div {
+  border-top: 1px solid #cccccc;
+  padding: 80px 85px;
+  flex-grow: 1;
+  transition: 0.3s;
+}
+
+.wrapper-values div + div {
+  border-left: 1px solid #cccccc;
+}
+
+.wrapper-values div:first-child {
+  background-color: #c00000;
+  color: white;
+}
+
+.wrapper-values div:hover {
+  background-color: #c00000;
+  color: white;
+  border-left: 0px;
+}
