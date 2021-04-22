@@ -1,11 +1,24 @@
 .cta-wrapper {
   border-bottom: 1px solid #cccccc;
   display: flex;
+  flex-flow: row wrap;
   align-items: center;
   justify-content: space-between;
 }
 
 .cta-wrapper h1 {
-    max-width: 760px;
-    margin-left: 140px;
+  margin-left: 140px;
+  flex: 2;
+}
+
+@media only screen and (max-width: 1080px) {
+  .cta-wrapper h1 {
+    margin-left: 50px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .cta-wrapper h1 {
+    margin-left: 50px;
+  }
 }

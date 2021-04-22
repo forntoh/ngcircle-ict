@@ -12,4 +12,17 @@
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+  flex-flow: row wrap;
+}
+
+@media only screen and (max-width: 1080px) {
+  .content-wrapper {
+    margin: 64px 192px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .content-wrapper {
+    margin: 64px 50px;
+  }
 }

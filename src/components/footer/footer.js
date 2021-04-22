@@ -17,8 +17,9 @@ export const Footer = ({}) => {
       </div>
       <hr />
       <div className="ngc-footer-bottom">
-        <Logo type="negative" showBorder={true} />
-        <p style={{ flexGrow: 0.5 }}></p>
+        <div>
+          <Logo type="negative" showBorder={true} />
+        </div>
         <div
           style={{
             display: "flex",
@@ -55,6 +56,7 @@ export const Footer = ({}) => {
             </div>
           </div>
         </div>
+        <div></div>
       </div>
     </footer>
   );

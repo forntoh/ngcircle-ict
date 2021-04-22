@@ -7,22 +7,36 @@ footer {
 
 .ngc-footer-top {
     display: flex;
-    flex-direction: row;
+    flex-flow: row wrap;
 }
 
 .ngc-footer-bottom {
     display: flex;
-    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
     margin-top: 48px;
     font-size: 16px;
 }
 
 .ngc-footer-bottom .locations {
     display: flex;
-    flex-direction: row;
+    flex-flow: row wrap;
     line-height: 1.6;
 }
 
 .ngc-footer-bottom .locations div, .ngc-footer-bottom div p {
-    margin: auto 50px;
+    margin: 10px 50px 10px 0;
+}
+
+@media only screen and (max-width: 1024px) {
+    footer {
+        padding: 48px 48px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    footer {
+        padding: 26px 26px;
+    }
 }
