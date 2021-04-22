@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import PropTypes from "prop-types";
 import "./logo.css";
 
@@ -8,9 +8,9 @@ import NgC_Logo_Full from "../../assets/ngc-logo/logo-ngc-with-name.png";
 
 export const Logo = ({ type, showBorder }) => {
   var mode =
-    type == "full"
+    type === "full"
       ? NgC_Logo_Full
-      : type == "negative"
+      : type === "negative"
       ? NgC_Logo_Neg
       : NgC_Logo;
   var isBordered = showBorder ? "ngc-logo-bordered" : "ngc-logo";

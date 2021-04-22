@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 
 import { Button } from "../button/button";
 import { Logo } from "../logo/logo";
@@ -9,7 +9,7 @@ export const Footer = ({}) => {
   return (
     <footer>
       <div className="ngc-footer-top">
-        <p>© 2021 | NgC GmbH</p>
+        <p>© {new Date().getFullYear()} | NgC GmbH</p>
         <p style={{ flexGrow: 1 }}></p>
         <Button label="IMPRESSUM" type="secondary-dark" />
         <p>|</p>

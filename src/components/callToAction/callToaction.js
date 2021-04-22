@@ -35,6 +35,6 @@ CallToAction.propTypes = {
 CallToAction.defaultProps = {
   label: "LOREM IPSUM",
   description: "LOREM IPSUM",
-  backgroundColor: null,
+  backgroundColor: "#000",
   onClick: undefined,
 };

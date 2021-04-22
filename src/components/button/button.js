@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import PropTypes from "prop-types";
 import "./button.css";
 
@@ -6,7 +6,7 @@ import "./button.css";
  * Primary UI component for user interaction
  */
 export const Button = ({ type, backgroundColor, label, ...props }) => {
-  return type == "primary" ? (
+  return type === "primary" ? (
     <div
       style={backgroundColor && { backgroundColor }}
       className={["ngc-button", "ngc-button--primary"].join(" ")}
