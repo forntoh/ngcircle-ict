@@ -2,9 +2,9 @@ import React from "react";
 import PropTypes from "prop-types";
 import "./logo.css";
 
-import NgC_Logo from "../../assets/ngc-logo/logo-ngc.png";
-import NgC_Logo_Neg from "../../assets/ngc-logo/logo-ngc-negative.png";
-import NgC_Logo_Full from "../../assets/ngc-logo/logo-ngc-with-name.png";
+import NgC_Logo from "../../assets/images/logos/ngc.png";
+import NgC_Logo_Neg from "../../assets/images/logos/ngc-negative.png";
+import NgC_Logo_Full from "../../assets/images/logos/ngc-with-name.png";
 
 export const Logo = ({ type, showBorder }) => {
   var mode =
