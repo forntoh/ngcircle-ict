@@ -5,7 +5,7 @@ import Index from "../pages/home";
 import Innovationen from "../pages/inovationen";
 import Forderungen from "../pages/forderungen";
 import Karriere from "../pages/karriere";
-// import Kontakt from "../pages/kontakt";
+import Kontakt from "../pages/kontakt";
 
 export default function Routes() {
   return (
@@ -15,7 +15,7 @@ export default function Routes() {
       <Route path="/forderungen" component={Forderungen} />
 
       <Route path="/karriere" component={Karriere} />
-      {/* <Route path="/kontakt" component={Kontakt} /> */}
+      <Route path="/kontakt" component={Kontakt} />
 
       <Route component={Index} />
     </Switch>
