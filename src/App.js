@@ -1,11 +1,11 @@
 import "./App.css";
 
-import HomePage from "./pages/home";
+import InnovationenPage from "./pages/inovationen";
 
 function App() {
   return (
     <div>
-      <HomePage />
+      <InnovationenPage />
     </div>
   );
 }
