@@ -5,9 +5,10 @@ import "./button.css";
 /**
  * Primary UI component for user interaction
  */
-export const Button = ({ type, backgroundColor, label, ...props }) => {
+export const Button = ({ type, backgroundColor, label, destination, ...props }) => {
   return type === "primary" ? (
-    <div
+    <a
+      href={destination}
       style={backgroundColor && { backgroundColor }}
       className={["ngc-button", "ngc-button--primary"].join(" ")}
     >
@@ -39,9 +40,10 @@ export const Button = ({ type, backgroundColor, label, ...props }) => {
         </g>
       </svg>
       <p>{label}</p>
-    </div>
+    </a>
   ) : (
-    <button
+    <a
+      href={destination}
       className={[
         `ngc-button`,
         `ngc-button--secondary`,
@@ -50,7 +52,7 @@ export const Button = ({ type, backgroundColor, label, ...props }) => {
       {...props}
     >
       {label}
-    </button>
+    </a>
   );
 };
 
@@ -68,13 +70,13 @@ Button.propTypes = {
    */
   label: PropTypes.string.isRequired,
   /**
-   * Optional click handler
+   * Destination route
    */
-  onClick: PropTypes.func,
+  destination: PropTypes.string,
 };
 
 Button.defaultProps = {
   backgroundColor: null,
   type: "primary",
-  onClick: undefined,
+  destination: "/",
 };

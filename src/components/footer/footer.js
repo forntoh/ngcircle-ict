@@ -12,7 +12,7 @@ export const Footer = ({}) => {
         <p>© {new Date().getFullYear()} | NgC GmbH</p>
         <p style={{ flexGrow: 1 }}></p>
         <Button label="IMPRESSUM" type="secondary-dark" />
-        <p>|</p>
+        <div>|</div>
         <Button label="DATENSCHUTZ" type="secondary-dark" />
       </div>
       <hr />

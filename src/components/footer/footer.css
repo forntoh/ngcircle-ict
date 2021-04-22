@@ -8,6 +8,7 @@ footer {
 .ngc-footer-top {
     display: flex;
     flex-flow: row wrap;
+    align-items: center;
 }
 
 .ngc-footer-bottom {
@@ -37,6 +38,6 @@ footer {
 
 @media only screen and (max-width: 768px) {
     footer {
-        padding: 26px 26px;
+        padding: 26px 48px;
     }
 }

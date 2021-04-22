@@ -1,9 +1,12 @@
 import React from "react";
+import { Switch, Route } from "react-router-dom";
 
 import { Button } from "../button/button";
 import { Logo } from "../logo/logo";
 
 import "./header.css";
+
+import Innovationen from "../../pages/inovationen";
 
 export const Header = ({}) => (
   <header>

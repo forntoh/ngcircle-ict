@@ -1,12 +1,16 @@
+import React from "react";
+import { Router } from "react-router-dom";
+
 import "./App.css";
 
-import InnovationenPage from "./pages/inovationen";
+import history from "./services/history";
+import Routes from "./routes";
 
 function App() {
   return (
-    <div>
-      <InnovationenPage />
-    </div>
+    <Router history={history}>
+      <Routes />
+    </Router>
   );
 }
 
