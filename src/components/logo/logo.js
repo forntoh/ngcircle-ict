@@ -14,7 +14,11 @@ export const Logo = ({ type, showBorder }) => {
       ? NgC_Logo_Neg
       : NgC_Logo;
   var isBordered = showBorder ? "ngc-logo-bordered" : "ngc-logo";
-  return <img className={`ngc-logo ${isBordered}`} src={mode} alt="NgC GmbH" />;
+  return (
+    <a href="/">
+      <img className={`ngc-logo ${isBordered}`} src={mode} alt="NgC GmbH" />
+    </a>
+  );
 };
 
 Logo.propTypes = {
