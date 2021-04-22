@@ -7,8 +7,6 @@ import { CallToAction } from "../components/callToAction/callToaction";
 import inno from "../assets/images/inno.jpg";
 import innov from "../assets/images/inno.svg";
 
-import "./inovationen.css";
-
 export const InnovationenPage = () => (
   <div>
     <Header />
@@ -18,7 +16,7 @@ export const InnovationenPage = () => (
       <img src={innov} style={{ margin: "200px 165px" }} />
     </div>
     <div className="content-wrapper">
-      <span>LOREM IPSUM DOLOR SIT AMET</span>
+      <h2>LOREM IPSUM DOLOR SIT AMET</h2>
       <p>
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
         eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam

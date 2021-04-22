@@ -14,11 +14,11 @@ export const Forderungen = () => (
       <img src={logo_mensch} style={{ margin: "200px 165px" }} />
     </div>
     <div className="content-wrapper">
-      <span>
+      <h2>
         DAS PROGRAMM:
         <br />
         unternehmensWert Mensch
-      </span>
+      </h2>
       <p>
         Die NgC verzeichnet ein stetiges-, wirtschaftliches-, und auch
         personelles Wachstum.

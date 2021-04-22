@@ -11,6 +11,8 @@ export default function Routes() {
       <Route path="/" exact component={Index} />
       <Route path="/innovationen" component={Innovationen} />
       <Route path="/forderungen" component={Forderungen} />
+
+      <Route component={Index} />
     </Switch>
   );
 }
