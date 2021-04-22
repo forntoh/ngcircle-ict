@@ -1,0 +1,22 @@
+.primary-image .right {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.primary-image img {
+  margin: 0 62px;
+}
+
+.primary-image .right img {
+  margin: 0 72px;
+}
+
+.primary-image .right div {
+  max-height: 438px;
+  padding: 106px 72px;
+  font-size: 30px;
+  text-align: center;
+  background-color: #c00000;
+  color: white;
+}

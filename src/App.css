@@ -4,6 +4,13 @@
 }
 
 .content-wrapper span {
-    font-size: 48px;
-    font-weight: 300;
+  font-size: 48px;
+  font-weight: 300;
+}
+
+.primary-image {
+  border-bottom: 1px solid #cccccc;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }

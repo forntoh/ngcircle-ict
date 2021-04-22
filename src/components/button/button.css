@@ -8,7 +8,7 @@
 .ngc-button--primary {
   color: white;
   width: 540px;
-  height: 260px;
+  height: 200px;
   display: flex;
   flex-direction: row;
 }
