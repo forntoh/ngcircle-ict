@@ -83,6 +83,6 @@ Button.propTypes = {
 
 Button.defaultProps = {
   backgroundColor: null,
-  type: "primary",
+  type: "secondary",
   destination: "/",
 };

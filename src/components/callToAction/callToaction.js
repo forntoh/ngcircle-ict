@@ -8,7 +8,7 @@ export const CallToAction = ({ label, description, backgroundColor, ...props }) 
   <section>
     <div className="cta-wrapper">
       <h1 className="desc">{description}</h1>
-      <Button label={label} backgroundColor={backgroundColor} />
+      <Button label={label} backgroundColor={backgroundColor} type="primary" />
     </div>
   </section>
 );

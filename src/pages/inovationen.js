@@ -1,8 +1,5 @@
 import React from "react";
 
-import "../index.css";
-import "../App.css";
-
 import { Header } from "../components/header/header";
 import { Footer } from "../components/footer/footer";
 import { CallToAction } from "../components/callToAction/callToaction";
