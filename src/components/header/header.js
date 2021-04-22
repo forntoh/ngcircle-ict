@@ -6,19 +6,21 @@ import { Logo } from "../logo/logo";
 
 import "./header.css";
 
-import Innovationen from "../../pages/inovationen";
-
 export const Header = ({}) => (
   <header>
     <div className="wrapper">
       <Logo type="full" />
       <div style={{ flexGrow: 1 }}></div>
-      <Button label="INNOVATIONEN" type="secondary" />
-      <Button label="FÖRDERUNGEN" type="secondary" />
-      <Button label="UNTERNEHMEN" type="secondary" />
-      <Button label="LEISTUNGEN" type="secondary" />
-      <Button label="KARRIERE" type="secondary" />
-      <Button label="KONTAKT" type="secondary" />
+      <Button
+        label="INNOVATIONEN"
+        destination="/innovationen"
+        type="secondary"
+      />
+      <Button label="FÖRDERUNGEN" destination="/forderungen" type="secondary" />
+      <Button label="UNTERNEHMEN" destination="/unternehmen" type="secondary" />
+      <Button label="LEISTUNGEN" destination="/leistungen" type="secondary" />
+      <Button label="KARRIERE" destination="/karriere" type="secondary" />
+      <Button label="KONTAKT" destination="/kontakt" type="secondary" />
     </div>
   </header>
 );

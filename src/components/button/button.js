@@ -1,11 +1,16 @@
 import React from "react";
 import PropTypes from "prop-types";
+
+import { useLocation } from "react-router-dom";
+
 import "./button.css";
 
 /**
  * Primary UI component for user interaction
  */
 export const Button = ({ type, backgroundColor, label, destination, ...props }) => {
+  const location = useLocation();
+  var selected = destination === location.pathname ? "selected" : ""
   return type === "primary" ? (
     <a
       href={destination}
@@ -48,6 +53,7 @@ export const Button = ({ type, backgroundColor, label, destination, ...props }) 
         `ngc-button`,
         `ngc-button--secondary`,
         `ngc-button--${type}`,
+        selected,
       ].join(" ")}
       {...props}
     >
