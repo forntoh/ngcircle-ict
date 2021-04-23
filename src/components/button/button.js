@@ -1,19 +1,25 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { useLocation } from "react-router-dom";
+import { useLocation, Link } from "react-router-dom";
 
 import "./button.css";
 
 /**
  * Primary UI component for user interaction
  */
-export const Button = ({ type, backgroundColor, label, destination, ...props }) => {
+export const Button = ({
+  type,
+  backgroundColor,
+  label,
+  destination,
+  ...props
+}) => {
   const location = useLocation();
-  var selected = destination === location.pathname ? "selected" : ""
+  var selected = destination === location.pathname ? "selected" : "";
   return type === "primary" ? (
-    <a
-      href={destination}
+    <Link
+      to={destination}
       style={backgroundColor && { backgroundColor }}
       className={["ngc-button", "ngc-button--primary"].join(" ")}
     >
@@ -45,10 +51,10 @@ export const Button = ({ type, backgroundColor, label, destination, ...props }) 
         </g>
       </svg>
       <p>{label}</p>
-    </a>
+    </Link>
   ) : (
-    <a
-      href={destination}
+    <Link
+      to={destination}
       className={[
         `ngc-button`,
         `ngc-button--secondary`,
@@ -58,7 +64,7 @@ export const Button = ({ type, backgroundColor, label, destination, ...props }) 
       {...props}
     >
       {label}
-    </a>
+    </Link>
   );
 };
 

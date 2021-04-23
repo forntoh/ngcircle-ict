@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter } from "react-router-dom";
+import { Router } from "react-router-dom";
 
 import "./App.css";
 
@@ -8,9 +8,9 @@ import Routes from "./routes";
 
 function App() {
   return (
-    <HashRouter basename={process.env.PUBLIC_URL} history={history}>
+    <Router history={history}>
       <Routes />
-    </HashRouter>
+    </Router>
   );
 }
 
