@@ -8,7 +8,7 @@ import Routes from "./routes";
 
 function App() {
   return (
-    <HashRouter basename="/" history={history}>
+    <HashRouter history={history}>
       <Routes />
     </HashRouter>
   );
