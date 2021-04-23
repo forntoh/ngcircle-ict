@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "NgC IKT",
+  "name": "NgC DIENSTLEISTUNGEN IKT",
   "icons": [
     {
       "src": "favicon.ico",
@@ -21,6 +21,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "homepage": "https://forntoh.github.io/ngcircle-ict"
+  "background_color": "#ffffff"
 }
