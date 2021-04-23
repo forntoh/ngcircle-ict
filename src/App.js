@@ -1,5 +1,5 @@
 import React from "react";
-import { Router } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 import "./App.css";
 
@@ -8,9 +8,9 @@ import Routes from "./routes";
 
 function App() {
   return (
-    <Router history={history}>
+    <HashRouter history={history}>
       <Routes />
-    </Router>
+    </HashRouter>
   );
 }
 
