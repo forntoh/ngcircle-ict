@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ngcircle-ict/static/css/main.41a73da6.chunk.css",
-    "main.js": "/ngcircle-ict/static/js/main.d07b063d.chunk.js",
-    "main.js.map": "/ngcircle-ict/static/js/main.d07b063d.chunk.js.map",
+    "main.js": "/ngcircle-ict/static/js/main.e80d9358.chunk.js",
+    "main.js.map": "/ngcircle-ict/static/js/main.e80d9358.chunk.js.map",
     "runtime-main.js": "/ngcircle-ict/static/js/runtime-main.7db088fd.js",
     "runtime-main.js.map": "/ngcircle-ict/static/js/runtime-main.7db088fd.js.map",
-    "static/js/2.707508b5.chunk.js": "/ngcircle-ict/static/js/2.707508b5.chunk.js",
-    "static/js/2.707508b5.chunk.js.map": "/ngcircle-ict/static/js/2.707508b5.chunk.js.map",
+    "static/js/2.ed81cca3.chunk.js": "/ngcircle-ict/static/js/2.ed81cca3.chunk.js",
+    "static/js/2.ed81cca3.chunk.js.map": "/ngcircle-ict/static/js/2.ed81cca3.chunk.js.map",
     "static/js/3.a7f5e077.chunk.js": "/ngcircle-ict/static/js/3.a7f5e077.chunk.js",
     "static/js/3.a7f5e077.chunk.js.map": "/ngcircle-ict/static/js/3.a7f5e077.chunk.js.map",
     "index.html": "/ngcircle-ict/index.html",
     "static/css/main.41a73da6.chunk.css.map": "/ngcircle-ict/static/css/main.41a73da6.chunk.css.map",
-    "static/js/2.707508b5.chunk.js.LICENSE.txt": "/ngcircle-ict/static/js/2.707508b5.chunk.js.LICENSE.txt",
+    "static/js/2.ed81cca3.chunk.js.LICENSE.txt": "/ngcircle-ict/static/js/2.ed81cca3.chunk.js.LICENSE.txt",
     "static/media/home_left.3025edbb.svg": "/ngcircle-ict/static/media/home_left.3025edbb.svg",
     "static/media/home_right.99c7ddee.svg": "/ngcircle-ict/static/media/home_right.99c7ddee.svg",
     "static/media/inno.211499fe.svg": "/ngcircle-ict/static/media/inno.211499fe.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7db088fd.js",
-    "static/js/2.707508b5.chunk.js",
+    "static/js/2.ed81cca3.chunk.js",
     "static/css/main.41a73da6.chunk.css",
-    "static/js/main.d07b063d.chunk.js"
+    "static/js/main.e80d9358.chunk.js"
   ]
 }
