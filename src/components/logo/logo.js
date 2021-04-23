@@ -1,5 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
+
+import { Link } from "react-router-dom";
+
 import "./logo.css";
 
 import NgC_Logo from "../../assets/images/logos/ngc.png";
@@ -15,9 +18,9 @@ export const Logo = ({ type, showBorder }) => {
       : NgC_Logo;
   var isBordered = showBorder ? "ngc-logo-bordered" : "ngc-logo";
   return (
-    <a href="/">
+    <Link to="/">
       <img className={`ngc-logo ${isBordered}`} src={mode} alt="NgC GmbH" />
-    </a>
+    </Link>
   );
 };
 
