@@ -11,7 +11,7 @@ export const Karriere = () => (
     <Header />
     <CallToAction description="KARRIERE" />
     <div className="primary-image" style={{ backgroundImage: `url(${jobs})` }}>
-      <img style={{ margin: "300px 0" }} />
+      <div style={{ margin: "300px 0" }} />
     </div>
     <div className="content-wrapper">
       <p>&emsp;</p>

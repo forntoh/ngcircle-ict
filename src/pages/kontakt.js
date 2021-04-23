@@ -14,7 +14,7 @@ export const Kontakt = () => (
       className="primary-image"
       style={{ backgroundImage: `url(${kontakt})` }}
     >
-      <img style={{ margin: "300px 0" }} />
+      <div style={{ margin: "300px 0" }} />
     </div>
     <div className="content-wrapper">
       <p>&emsp;</p>

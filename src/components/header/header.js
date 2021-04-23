@@ -1,12 +1,11 @@
 import React from "react";
-import { Switch, Route } from "react-router-dom";
 
 import { Button } from "../button/button";
 import { Logo } from "../logo/logo";
 
 import "./header.css";
 
-export const Header = ({}) => (
+export const Header = () => (
   <header>
     <div className="wrapper">
       <Logo type="full" />

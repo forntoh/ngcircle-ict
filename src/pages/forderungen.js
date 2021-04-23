@@ -11,7 +11,7 @@ export const Forderungen = () => (
     <Header />
     <CallToAction description="FÖRDERUNGEN" />
     <div className="primary-image">
-      <img src={logo_mensch} style={{ margin: "200px 165px" }} />
+      <img src={logo_mensch} style={{ margin: "200px 165px" }} alt="Mensch"/>
     </div>
     <div className="content-wrapper">
       <h2>

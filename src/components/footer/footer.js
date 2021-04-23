@@ -5,7 +5,7 @@ import { Logo } from "../logo/logo";
 
 import "./footer.css";
 
-export const Footer = ({}) => {
+export const Footer = () => {
   return (
     <footer>
       <div className="ngc-footer-top">

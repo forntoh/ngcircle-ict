@@ -17,7 +17,7 @@ export const HomePage = () => (
     <Header />
     <CallToAction description="PERSÖNLICHE VIELFALT SCHAFFT DIVERSITÄT" />
     <div className="primary-image">
-      <img src={home_left} />
+      <img src={home_left} alt="left"/>
       <div className="right">
         <div>
           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
@@ -26,7 +26,7 @@ export const HomePage = () => (
           rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
           ipsum dolor sit amet.
         </div>
-        <img src={home_right} />
+        <img src={home_right} alt="right"/>
       </div>
     </div>
     <div className="content-wrapper">

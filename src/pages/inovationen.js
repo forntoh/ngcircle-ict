@@ -13,7 +13,7 @@ export const InnovationenPage = () => (
     <CallToAction description="INNOVATIONEN" />
     <div className="primary-image" style={{ backgroundImage: `url(${inno})` }}>
       <div style={{ flex: 1 }}></div>
-      <img src={innov} style={{ margin: "200px 165px" }} />
+      <img src={innov} style={{ margin: "200px 165px" }} alt="Innovationen" />
     </div>
     <div className="content-wrapper">
       <h2>LOREM IPSUM DOLOR SIT AMET</h2>
