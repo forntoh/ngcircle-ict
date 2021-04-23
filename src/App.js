@@ -8,7 +8,7 @@ import Routes from "./routes";
 
 function App() {
   return (
-    <HashRouter history={history}>
+    <HashRouter basename={process.env.PUBLIC_URL} history={history}>
       <Routes />
     </HashRouter>
   );
