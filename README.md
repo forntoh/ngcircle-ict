@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+![CI/CD](https://github.com/forntoh/ngcircle-ict/workflows/CI/CD/badge.svg)
+[![codecov](https://codecov.io/gh/forntoh/ngcircle-ict/branch/master/graph/badge.svg)](https://codecov.io/gh/forntoh/ngcircle-ict)
+
+# NgC DIENSTLEISTUNGEN IKT
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
