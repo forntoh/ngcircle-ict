@@ -84,5 +84,5 @@ Button.propTypes = {
 Button.defaultProps = {
   backgroundColor: null,
   type: "secondary",
-  destination: "/",
+  destination: "#",
 };
