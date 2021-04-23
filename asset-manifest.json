@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ngcircle-ict/static/css/main.41a73da6.chunk.css",
-    "main.js": "/ngcircle-ict/static/js/main.0075473b.chunk.js",
-    "main.js.map": "/ngcircle-ict/static/js/main.0075473b.chunk.js.map",
+    "main.js": "/ngcircle-ict/static/js/main.b21a908a.chunk.js",
+    "main.js.map": "/ngcircle-ict/static/js/main.b21a908a.chunk.js.map",
     "runtime-main.js": "/ngcircle-ict/static/js/runtime-main.be4209e0.js",
     "runtime-main.js.map": "/ngcircle-ict/static/js/runtime-main.be4209e0.js.map",
     "static/js/2.a40be792.chunk.js": "/ngcircle-ict/static/js/2.a40be792.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.be4209e0.js",
     "static/js/2.a40be792.chunk.js",
     "static/css/main.41a73da6.chunk.css",
-    "static/js/main.0075473b.chunk.js"
+    "static/js/main.b21a908a.chunk.js"
   ]
 }
