@@ -9,7 +9,6 @@ export const Header = () => (
   <header>
     <div className="wrapper">
       <Logo type="full" />
-      <div style={{ flexGrow: 1 }}></div>
       <ul className="nav-items">
         <li>
           <Button label="INNOVATIONEN" destination="/innovationen" />
