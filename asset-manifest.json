@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ngcircle-ict/static/css/main.41a73da6.chunk.css",
-    "main.js": "/ngcircle-ict/static/js/main.b21a908a.chunk.js",
-    "main.js.map": "/ngcircle-ict/static/js/main.b21a908a.chunk.js.map",
-    "runtime-main.js": "/ngcircle-ict/static/js/runtime-main.be4209e0.js",
-    "runtime-main.js.map": "/ngcircle-ict/static/js/runtime-main.be4209e0.js.map",
-    "static/js/2.a40be792.chunk.js": "/ngcircle-ict/static/js/2.a40be792.chunk.js",
-    "static/js/2.a40be792.chunk.js.map": "/ngcircle-ict/static/js/2.a40be792.chunk.js.map",
-    "static/js/3.3ac6c044.chunk.js": "/ngcircle-ict/static/js/3.3ac6c044.chunk.js",
-    "static/js/3.3ac6c044.chunk.js.map": "/ngcircle-ict/static/js/3.3ac6c044.chunk.js.map",
+    "main.js": "/ngcircle-ict/static/js/main.fa87eca3.chunk.js",
+    "main.js.map": "/ngcircle-ict/static/js/main.fa87eca3.chunk.js.map",
+    "runtime-main.js": "/ngcircle-ict/static/js/runtime-main.7db088fd.js",
+    "runtime-main.js.map": "/ngcircle-ict/static/js/runtime-main.7db088fd.js.map",
+    "static/js/2.8854d5d7.chunk.js": "/ngcircle-ict/static/js/2.8854d5d7.chunk.js",
+    "static/js/2.8854d5d7.chunk.js.map": "/ngcircle-ict/static/js/2.8854d5d7.chunk.js.map",
+    "static/js/3.a7f5e077.chunk.js": "/ngcircle-ict/static/js/3.a7f5e077.chunk.js",
+    "static/js/3.a7f5e077.chunk.js.map": "/ngcircle-ict/static/js/3.a7f5e077.chunk.js.map",
     "index.html": "/ngcircle-ict/index.html",
     "static/css/main.41a73da6.chunk.css.map": "/ngcircle-ict/static/css/main.41a73da6.chunk.css.map",
-    "static/js/2.a40be792.chunk.js.LICENSE.txt": "/ngcircle-ict/static/js/2.a40be792.chunk.js.LICENSE.txt",
+    "static/js/2.8854d5d7.chunk.js.LICENSE.txt": "/ngcircle-ict/static/js/2.8854d5d7.chunk.js.LICENSE.txt",
     "static/media/home_left.3025edbb.svg": "/ngcircle-ict/static/media/home_left.3025edbb.svg",
     "static/media/home_right.99c7ddee.svg": "/ngcircle-ict/static/media/home_right.99c7ddee.svg",
     "static/media/inno.211499fe.svg": "/ngcircle-ict/static/media/inno.211499fe.svg",
@@ -21,9 +21,9 @@
     "static/media/logo_mensch.df6bd7fb.jpg": "/ngcircle-ict/static/media/logo_mensch.df6bd7fb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be4209e0.js",
-    "static/js/2.a40be792.chunk.js",
+    "static/js/runtime-main.7db088fd.js",
+    "static/js/2.8854d5d7.chunk.js",
     "static/css/main.41a73da6.chunk.css",
-    "static/js/main.b21a908a.chunk.js"
+    "static/js/main.fa87eca3.chunk.js"
   ]
 }
