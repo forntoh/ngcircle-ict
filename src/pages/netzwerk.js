@@ -61,7 +61,15 @@ export const Netzwerk = () => (
       <p>&emsp;</p>
     </div>
     <div className="network-items">
-      <NetworkItem />
+      <NetworkItem
+        logo="/assets/images/1tnc.svg"
+        title="1TNC GmbH – Diagnostikverfahren der Zukunft im Bereich Automotive"
+        description={[
+          "Als Pioniere der Systemdiagnostik, mit Fokus in den Produktbereichen der Elektrik und Elektronik, arbeitet die 1TNC mit einem internationalen Ingenieurteam für innovative Systemlösungen.",
+          'Die "Systemdiagnostik" ist ein Kunstwort aus der Firmengründung und beschreibt die Entwicklung von Methodiken, Prozesse, Daten und Tools, die zur besseren Diagnoseeffizienz eines Systems im gesamten Entwicklungsprozess und darüber hinaus integriert bzw. angewendet werden.',
+          "Hier geht es zu der Internetseite der 1TNC GmbH.",
+        ]}
+      />
       <NetworkItem
         logo="/assets/images/KTA.jpg"
         title="Kamany Talent Akademy – Immer eine geniale Idee!"

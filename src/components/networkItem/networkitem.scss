@@ -3,7 +3,8 @@
   flex-flow: column;
   padding: 32px 100px 100px 100px;
   background-color: white;
-  filter: drop-shadow(0 1px 12px #00000028);
+  filter: drop-shadow(0 1px 10px #00000028);
+  transition: 0.3s;
 
   img {
     padding: 0 92px;
@@ -53,4 +54,9 @@
     text-align: center;
     font-size: 16px;
   }
+}
+
+.network-item:hover {
+  filter: drop-shadow(0 1px 20px #00000028);
+  z-index: 99;
 }
