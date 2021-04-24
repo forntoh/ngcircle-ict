@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ngcircle-ict/static/css/main.673dc4a0.chunk.css",
-    "main.js": "/ngcircle-ict/static/js/main.aae693d2.chunk.js",
-    "main.js.map": "/ngcircle-ict/static/js/main.aae693d2.chunk.js.map",
+    "main.js": "/ngcircle-ict/static/js/main.6d8c6928.chunk.js",
+    "main.js.map": "/ngcircle-ict/static/js/main.6d8c6928.chunk.js.map",
     "runtime-main.js": "/ngcircle-ict/static/js/runtime-main.3c58ccfe.js",
     "runtime-main.js.map": "/ngcircle-ict/static/js/runtime-main.3c58ccfe.js.map",
     "static/js/2.c0cba4a9.chunk.js": "/ngcircle-ict/static/js/2.c0cba4a9.chunk.js",
@@ -12,8 +12,8 @@
     "index.html": "/ngcircle-ict/index.html",
     "static/css/main.673dc4a0.chunk.css.map": "/ngcircle-ict/static/css/main.673dc4a0.chunk.css.map",
     "static/js/2.c0cba4a9.chunk.js.LICENSE.txt": "/ngcircle-ict/static/js/2.c0cba4a9.chunk.js.LICENSE.txt",
-    "static/media/home_left.3025edbb.svg": "/ngcircle-ict/static/media/home_left.3025edbb.svg",
-    "static/media/home_right.99c7ddee.svg": "/ngcircle-ict/static/media/home_right.99c7ddee.svg",
+    "static/media/home_left.b7fa4511.svg": "/ngcircle-ict/static/media/home_left.b7fa4511.svg",
+    "static/media/home_right.462a2d64.svg": "/ngcircle-ict/static/media/home_right.462a2d64.svg",
     "static/media/inno.211499fe.svg": "/ngcircle-ict/static/media/inno.211499fe.svg",
     "static/media/inno.960d3262.jpg": "/ngcircle-ict/static/media/inno.960d3262.jpg",
     "static/media/jobs.1d2878bf.jpg": "/ngcircle-ict/static/media/jobs.1d2878bf.jpg",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.3c58ccfe.js",
     "static/js/2.c0cba4a9.chunk.js",
     "static/css/main.673dc4a0.chunk.css",
-    "static/js/main.aae693d2.chunk.js"
+    "static/js/main.6d8c6928.chunk.js"
   ]
 }
