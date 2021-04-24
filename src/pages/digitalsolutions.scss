@@ -1,0 +1,15 @@
+.process-items {
+  display: flex;
+  flex-flow: row wrap;
+  grid-template-columns: repeat(3, 1fr);
+
+  .network-item--small {
+      margin-bottom: 40px;
+      flex: 1 1 25% !important;
+  }
+
+  .network-item--small:nth-child(even) {
+      margin-left: 20px;
+      margin-right: 20px;
+  }
+}
