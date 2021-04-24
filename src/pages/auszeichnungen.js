@@ -12,6 +12,7 @@ export const Auszeichnungen = () => (
     <CallToAction description="AUSZEICHNUNGEN" />
     <div className="primary-image">
       <iframe
+        title="NgC"
         width="1080"
         height="640"
         frameBorder="0"
