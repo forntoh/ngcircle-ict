@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ngcircle-ict/static/css/main.673dc4a0.chunk.css",
-    "main.js": "/ngcircle-ict/static/js/main.6d8c6928.chunk.js",
-    "main.js.map": "/ngcircle-ict/static/js/main.6d8c6928.chunk.js.map",
+    "main.js": "/ngcircle-ict/static/js/main.5a9047af.chunk.js",
+    "main.js.map": "/ngcircle-ict/static/js/main.5a9047af.chunk.js.map",
     "runtime-main.js": "/ngcircle-ict/static/js/runtime-main.3c58ccfe.js",
     "runtime-main.js.map": "/ngcircle-ict/static/js/runtime-main.3c58ccfe.js.map",
     "static/js/2.c0cba4a9.chunk.js": "/ngcircle-ict/static/js/2.c0cba4a9.chunk.js",
@@ -12,22 +12,22 @@
     "index.html": "/ngcircle-ict/index.html",
     "static/css/main.673dc4a0.chunk.css.map": "/ngcircle-ict/static/css/main.673dc4a0.chunk.css.map",
     "static/js/2.c0cba4a9.chunk.js.LICENSE.txt": "/ngcircle-ict/static/js/2.c0cba4a9.chunk.js.LICENSE.txt",
-    "static/media/home_left.b7fa4511.svg": "/ngcircle-ict/static/media/home_left.b7fa4511.svg",
+    "static/media/home_left.c7d547f0.svg": "/ngcircle-ict/static/media/home_left.c7d547f0.svg",
     "static/media/home_right.462a2d64.svg": "/ngcircle-ict/static/media/home_right.462a2d64.svg",
     "static/media/inno.211499fe.svg": "/ngcircle-ict/static/media/inno.211499fe.svg",
-    "static/media/inno.960d3262.jpg": "/ngcircle-ict/static/media/inno.960d3262.jpg",
+    "static/media/inno.999fc6b3.jpg": "/ngcircle-ict/static/media/inno.999fc6b3.jpg",
     "static/media/jobs.1d2878bf.jpg": "/ngcircle-ict/static/media/jobs.1d2878bf.jpg",
-    "static/media/kontakt.efd567cf.jpg": "/ngcircle-ict/static/media/kontakt.efd567cf.jpg",
-    "static/media/logo_mensch.df6bd7fb.jpg": "/ngcircle-ict/static/media/logo_mensch.df6bd7fb.jpg",
+    "static/media/kontakt.83a416c6.jpg": "/ngcircle-ict/static/media/kontakt.83a416c6.jpg",
+    "static/media/logo_mensch.1ee76b20.jpg": "/ngcircle-ict/static/media/logo_mensch.1ee76b20.jpg",
     "static/media/netzwerk.4352cf40.jpg": "/ngcircle-ict/static/media/netzwerk.4352cf40.jpg",
-    "static/media/ngc_house.df796ee1.jpg": "/ngcircle-ict/static/media/ngc_house.df796ee1.jpg",
-    "static/media/philosophie.28fdfe55.jpg": "/ngcircle-ict/static/media/philosophie.28fdfe55.jpg",
-    "static/media/zukunft.94562aff.png": "/ngcircle-ict/static/media/zukunft.94562aff.png"
+    "static/media/ngc_house.413b0bcf.jpg": "/ngcircle-ict/static/media/ngc_house.413b0bcf.jpg",
+    "static/media/philosophie.a7b1085d.jpg": "/ngcircle-ict/static/media/philosophie.a7b1085d.jpg",
+    "static/media/zukunft.47838b04.png": "/ngcircle-ict/static/media/zukunft.47838b04.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3c58ccfe.js",
     "static/js/2.c0cba4a9.chunk.js",
     "static/css/main.673dc4a0.chunk.css",
-    "static/js/main.6d8c6928.chunk.js"
+    "static/js/main.5a9047af.chunk.js"
   ]
 }
