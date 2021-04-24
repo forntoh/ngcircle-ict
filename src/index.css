@@ -30,6 +30,12 @@ h2 {
   line-height: 1;
 }
 
+h3 {
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
 a {
   text-decoration: none;
 }
