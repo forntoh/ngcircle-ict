@@ -21,7 +21,7 @@ export const DigitalSolutions = () => (
       className="primary-image"
       style={{ backgroundImage: `url(${digital})` }}
     >
-      <div style={{ flex: 0.72 }}></div>
+      <div style={{ flex: 0.65 }}></div>
       <img
         src={new_globe}
         style={{ marginBottom: "110px", marginTop: "360px" }}
