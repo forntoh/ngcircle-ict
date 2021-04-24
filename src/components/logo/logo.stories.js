@@ -10,21 +10,21 @@ export default {
 const Template = (args) => <Logo {...args} />;
 
 export const Primary = Template.bind({});
-Logo.args = {
+Primary.args = {
   type: "primary",
   showBorder: false,
   onClick: undefined,
 };
 
 export const WithName = Template.bind({});
-Logo.args = {
+WithName.args = {
   type: "full",
   showBorder: false,
   onClick: undefined,
 };
 
 export const WithBorder = Template.bind({});
-Logo.args = {
+WithBorder.args = {
   type: "negative",
   showBorder: true,
   onClick: undefined,
