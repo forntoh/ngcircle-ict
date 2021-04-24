@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ngcircle-ict/static/css/main.27089d14.chunk.css",
+    "main.css": "/ngcircle-ict/static/css/main.673dc4a0.chunk.css",
     "main.js": "/ngcircle-ict/static/js/main.aae693d2.chunk.js",
     "main.js.map": "/ngcircle-ict/static/js/main.aae693d2.chunk.js.map",
     "runtime-main.js": "/ngcircle-ict/static/js/runtime-main.3c58ccfe.js",
@@ -10,7 +10,7 @@
     "static/js/3.4cdbeb01.chunk.js": "/ngcircle-ict/static/js/3.4cdbeb01.chunk.js",
     "static/js/3.4cdbeb01.chunk.js.map": "/ngcircle-ict/static/js/3.4cdbeb01.chunk.js.map",
     "index.html": "/ngcircle-ict/index.html",
-    "static/css/main.27089d14.chunk.css.map": "/ngcircle-ict/static/css/main.27089d14.chunk.css.map",
+    "static/css/main.673dc4a0.chunk.css.map": "/ngcircle-ict/static/css/main.673dc4a0.chunk.css.map",
     "static/js/2.c0cba4a9.chunk.js.LICENSE.txt": "/ngcircle-ict/static/js/2.c0cba4a9.chunk.js.LICENSE.txt",
     "static/media/home_left.3025edbb.svg": "/ngcircle-ict/static/media/home_left.3025edbb.svg",
     "static/media/home_right.99c7ddee.svg": "/ngcircle-ict/static/media/home_right.99c7ddee.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.3c58ccfe.js",
     "static/js/2.c0cba4a9.chunk.js",
-    "static/css/main.27089d14.chunk.css",
+    "static/css/main.673dc4a0.chunk.css",
     "static/js/main.aae693d2.chunk.js"
   ]
 }
