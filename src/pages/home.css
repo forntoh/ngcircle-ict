@@ -27,40 +27,12 @@
   grid-template-columns: repeat(3, 1fr);
 }
 
-.wrapper-values > div {
-  border-top: 1px solid #cccccc;
-  padding: 80px 85px;
-  transition: 0.3s;
-  flex: 1 1 20%;
-}
-
-.wrapper-values div + div {
-  border-left: 1px solid #cccccc;
-}
-
 .wrapper-values > div:first-child {
   background-color: #c00000;
   color: white;
 }
 
-.wrapper-values > div:hover {
-  background-color: #c00000;
-  color: white;
-  border-left: 0px;
-}
-
-@media only screen and (max-width: 1080px) {
-  .wrapper-values > div {
-    padding: 12px 48px;
-    flex: 1 1 30%;
-  }
-}
-
 @media only screen and (max-width: 800px) {
-  .wrapper-values > div {
-    padding: 12px 48px;
-    flex: 1 1 50%;
-  }
   .primary-image > .right > img {
     margin: 0 16px;
   }

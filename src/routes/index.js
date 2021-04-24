@@ -13,6 +13,7 @@ import PageNotFound from "../pages/404";
 import Netzwerk from "../pages/netzwerk";
 import NgC from "../pages/ngc";
 import DigitalSolutions from "../pages/digitalsolutions";
+import OneTnc from "../pages/1tnc";
 
 export default function Routes() {
   return (
@@ -26,6 +27,7 @@ export default function Routes() {
       <Route path="/philosophie" component={Philosophie} />
       <Route path="/netzwerk" component={Netzwerk} />
 
+      <Route path="/1tnc" component={OneTnc} />
       <Route path="/ngc" component={NgC} />
       <Route path="/digi-solutions" component={DigitalSolutions} />
 
