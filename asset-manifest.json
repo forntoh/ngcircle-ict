@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ngcircle-ict/static/css/main.673dc4a0.chunk.css",
-    "main.js": "/ngcircle-ict/static/js/main.5a9047af.chunk.js",
-    "main.js.map": "/ngcircle-ict/static/js/main.5a9047af.chunk.js.map",
+    "main.js": "/ngcircle-ict/static/js/main.d81964c8.chunk.js",
+    "main.js.map": "/ngcircle-ict/static/js/main.d81964c8.chunk.js.map",
     "runtime-main.js": "/ngcircle-ict/static/js/runtime-main.3c58ccfe.js",
     "runtime-main.js.map": "/ngcircle-ict/static/js/runtime-main.3c58ccfe.js.map",
     "static/js/2.c0cba4a9.chunk.js": "/ngcircle-ict/static/js/2.c0cba4a9.chunk.js",
@@ -22,12 +22,12 @@
     "static/media/netzwerk.4352cf40.jpg": "/ngcircle-ict/static/media/netzwerk.4352cf40.jpg",
     "static/media/ngc_house.413b0bcf.jpg": "/ngcircle-ict/static/media/ngc_house.413b0bcf.jpg",
     "static/media/philosophie.a7b1085d.jpg": "/ngcircle-ict/static/media/philosophie.a7b1085d.jpg",
-    "static/media/zukunft.47838b04.png": "/ngcircle-ict/static/media/zukunft.47838b04.png"
+    "static/media/zukunft.675cb7fd.png": "/ngcircle-ict/static/media/zukunft.675cb7fd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3c58ccfe.js",
     "static/js/2.c0cba4a9.chunk.js",
     "static/css/main.673dc4a0.chunk.css",
-    "static/js/main.5a9047af.chunk.js"
+    "static/js/main.d81964c8.chunk.js"
   ]
 }
