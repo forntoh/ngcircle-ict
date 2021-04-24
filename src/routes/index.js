@@ -10,6 +10,7 @@ import Uber from "../pages/uber";
 import Auszeichnungen from "../pages/auszeichnungen";
 import Philosophie from "../pages/philosophie";
 import PageNotFound from "../pages/404";
+import Netzwerk from "../pages/netzwerk";
 
 export default function Routes() {
   return (
@@ -21,6 +22,7 @@ export default function Routes() {
       <Route path="/uber" component={Uber} />
       <Route path="/auszeichnungen" component={Auszeichnungen} />
       <Route path="/philosophie" component={Philosophie} />
+      <Route path="/netzwerk" component={Netzwerk} />
 
       <Route path="/karriere" component={Karriere} />
       <Route path="/kontakt" component={Kontakt} />
