@@ -31,24 +31,12 @@ export const HomePage = () => (
       </div>
     </div>
     <div className="content-wrapper">
-      <span>LOREM IPSUM DOLOR SIT AMET</span>
+      <span>Wir leben Kommunikation</span>
       <p>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-        eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-        voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-        clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-        amet.
+        Mit individuellen Lösungen in verschiedenen Kommunikationsbereichen sind wir Ihr Ideenpartner für erfolgreiche Kommunikation. Gemeinsam schaffen wir innovative Lösungen und einzigartige Wege, um Ihre Vorstellungen zu verwirklichen.
       </p>
       <p>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-        eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-        voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-        clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-        amet.
-      </p>
-      <p>
-        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-        gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        Für neue Kommunikationswege und verbesserte Kundenkommunikation stehen wir Ihnen mit umfangreichem Expertenwissen zur Seite. Wir sind Ihr marktstarker Partner für digitale Kommunikationswege. Unser Anspruch auf langfristige und nachhaltige Partnerschaften ist Ihr Vorteil.
       </p>
     </div>
     <div className="wrapper-values">
