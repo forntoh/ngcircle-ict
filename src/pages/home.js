@@ -15,7 +15,7 @@ import { ValueItem } from "../components/valueItem/valueItem";
 
 export const HomePage = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="PERSÖNLICHE VIELFALT SCHAFFT DIVERSITÄT" />
     <div className="primary-image">
       <img src={home_left} alt="left" />

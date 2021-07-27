@@ -9,4 +9,9 @@ export default {
 
 const Template = (args) => <Header {...args} />;
 
-export const Default = Template.bind({});
+export const Expanded = Template.bind({});
+
+export const Collapsed = Template.bind({});
+Collapsed.args = {
+  isExpanded: false,
+};
