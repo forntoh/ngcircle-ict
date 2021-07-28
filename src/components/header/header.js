@@ -40,7 +40,7 @@ export class Header extends React.Component {
             </div>
           </li>
           <li>
-            <span>UNTERNEHMEN</span>
+            <span>LEISTUNGEN</span>
             <div className="overflow">
               <Button label="1TNC" destination="/1tnc" />
               <Button label="NEW GLOBE CENTER" destination="/ngc" />

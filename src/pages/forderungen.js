@@ -8,7 +8,7 @@ import logo_mensch from "../assets/images/logos/logo_mensch.jpg";
 
 export const Forderungen = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="FÖRDERUNGEN" />
     <div className="primary-image">
       <img src={logo_mensch} style={{ margin: "200px 165px" }} alt="Mensch"/>

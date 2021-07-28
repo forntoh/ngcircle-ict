@@ -5,7 +5,7 @@ import { Footer } from "../components/footer/footer";
 
 export const PageNotFound = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <br />
     <br />
     <br />

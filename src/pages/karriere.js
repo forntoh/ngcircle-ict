@@ -8,7 +8,7 @@ import jobs from "../assets/images/jobs.jpg";
 
 export const Karriere = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="KARRIERE" />
     <div className="primary-image" style={{ backgroundImage: `url(${jobs})` }}>
       <div style={{ margin: "300px 0" }} />

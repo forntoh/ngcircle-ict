@@ -8,7 +8,7 @@ import ngc_house from "../assets/images/philosophie.jpg";
 
 export const Philosophie = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="FIRMENPHILOSOPHIE" />
     <div
       className="primary-image"

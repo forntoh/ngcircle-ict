@@ -9,7 +9,7 @@ import innov from "../assets/images/inno.svg";
 
 export const InnovationenPage = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="INNOVATIONEN" />
     <div className="primary-image" style={{ backgroundImage: `url(${inno})` }}>
       <div style={{ flex: 1 }}></div>

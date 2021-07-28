@@ -11,7 +11,7 @@ import "./netzwerk.scss";
 
 export const Netzwerk = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="NETZWERK" />
     <div
       className="primary-image"

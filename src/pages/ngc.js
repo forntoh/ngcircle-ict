@@ -9,7 +9,7 @@ import new_globe from "../assets/images/logos/new-globe.svg";
 
 export const NgC = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="WISSENSZENTRUM" backgroundColor="#DEB308" />
     <div className="primary-image" style={{ backgroundImage: `url(${ngc})` }}>
       <div style={{ flex: 1 }}></div>

@@ -15,7 +15,7 @@ let secondaryColor = "#CE3334";
 
 export const DigitalSolutions = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="DIGITAL" backgroundColor={primaryColor} />
     <div
       className="primary-image"

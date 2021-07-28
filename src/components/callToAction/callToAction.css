@@ -20,5 +20,6 @@
 @media only screen and (max-width: 800px) {
   .cta-wrapper h1 {
     margin-left: 50px;
+    font-size: 1.8em !important;
   }
 }

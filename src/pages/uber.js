@@ -8,7 +8,7 @@ import ngc_house from "../assets/images/ngc_house.jpg";
 
 export const Uber = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="ÜBER UNS" />
     <div
       className="primary-image"

@@ -8,7 +8,7 @@ import kontakt from "../assets/images/kontakt.jpg";
 
 export const Kontakt = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="KONTAKT" />
     <div
       className="primary-image"

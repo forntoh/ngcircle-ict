@@ -69,8 +69,12 @@
     position: relative;
     background: transparent;
 
-    a + a {
-      padding: 1.5em 1em !important;
+    a {
+      padding: 1.5em 2em !important;
+    }
+
+    a:last-child {
+      padding-bottom: 0 !important;
     }
   }
 }

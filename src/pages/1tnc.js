@@ -12,7 +12,7 @@ let primaryColor = "#00AFCB";
 
 export const OneTnc = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="AUTOMOTIVE" backgroundColor={actionColor} />
     <div className="primary-image" style={{ backgroundImage: `url(${jobs})` }}>
       <div style={{ flex: 0.5 }}></div>

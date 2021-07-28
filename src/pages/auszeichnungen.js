@@ -8,7 +8,7 @@ import zukunft from "../assets/images/logos/zukunft.png";
 
 export const Auszeichnungen = () => (
   <div>
-    <Header />
+    <Header isExpanded={ false }/>
     <CallToAction description="AUSZEICHNUNGEN" />
     <div className="primary-image">
       <iframe
