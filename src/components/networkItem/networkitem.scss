@@ -61,9 +61,9 @@
   z-index: 99;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1080px) {
   .network-item {
-    padding: 38px !important;
+    padding: 72px !important;
     flex: 1 1 50%  !important;
   }
 

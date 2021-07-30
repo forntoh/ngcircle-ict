@@ -40,4 +40,14 @@
     padding: 42px 42px;
     font-size: 20px;
   }
+
+  .primary-image > .right > div {
+    text-align: start !important;
+  }
+}
+
+@media only screen and (max-width: 1080px) {
+  .primary-image > .right > div {
+    text-align: justify !important;
+  }
 }
