@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ngcircle-ict/static/css/main.67b9009c.chunk.css",
-    "main.js": "/ngcircle-ict/static/js/main.d4dd95f0.chunk.js",
-    "main.js.map": "/ngcircle-ict/static/js/main.d4dd95f0.chunk.js.map",
+    "main.js": "/ngcircle-ict/static/js/main.2611af9b.chunk.js",
+    "main.js.map": "/ngcircle-ict/static/js/main.2611af9b.chunk.js.map",
     "runtime-main.js": "/ngcircle-ict/static/js/runtime-main.8bb7bf6a.js",
     "runtime-main.js.map": "/ngcircle-ict/static/js/runtime-main.8bb7bf6a.js.map",
     "static/js/2.63ef301f.chunk.js": "/ngcircle-ict/static/js/2.63ef301f.chunk.js",
@@ -12,29 +12,29 @@
     "index.html": "/ngcircle-ict/index.html",
     "static/css/main.67b9009c.chunk.css.map": "/ngcircle-ict/static/css/main.67b9009c.chunk.css.map",
     "static/js/2.63ef301f.chunk.js.LICENSE.txt": "/ngcircle-ict/static/js/2.63ef301f.chunk.js.LICENSE.txt",
-    "static/media/1tnc.03c81dcd.jpg": "/ngcircle-ict/static/media/1tnc.03c81dcd.jpg",
-    "static/media/555417.269c771f.svg": "/ngcircle-ict/static/media/555417.269c771f.svg",
-    "static/media/555613.528700ca.svg": "/ngcircle-ict/static/media/555613.528700ca.svg",
+    "static/media/1tnc.bf8539a4.jpg": "/ngcircle-ict/static/media/1tnc.bf8539a4.jpg",
+    "static/media/555417.a24c0b7c.svg": "/ngcircle-ict/static/media/555417.a24c0b7c.svg",
+    "static/media/555613.3b4b0ae9.svg": "/ngcircle-ict/static/media/555613.3b4b0ae9.svg",
     "static/media/NGC.04d8ffae.jpg": "/ngcircle-ict/static/media/NGC.04d8ffae.jpg",
     "static/media/digi-solutions.5b1b5920.svg": "/ngcircle-ict/static/media/digi-solutions.5b1b5920.svg",
     "static/media/digital_solutions.fa8bed1c.jpg": "/ngcircle-ict/static/media/digital_solutions.fa8bed1c.jpg",
-    "static/media/home_left.f8df182c.svg": "/ngcircle-ict/static/media/home_left.f8df182c.svg",
-    "static/media/home_right.60a89762.svg": "/ngcircle-ict/static/media/home_right.60a89762.svg",
+    "static/media/home_left.19756e17.svg": "/ngcircle-ict/static/media/home_left.19756e17.svg",
+    "static/media/home_right.3dc61513.svg": "/ngcircle-ict/static/media/home_right.3dc61513.svg",
     "static/media/inno.211499fe.svg": "/ngcircle-ict/static/media/inno.211499fe.svg",
-    "static/media/inno.960d3262.jpg": "/ngcircle-ict/static/media/inno.960d3262.jpg",
+    "static/media/inno.999fc6b3.jpg": "/ngcircle-ict/static/media/inno.999fc6b3.jpg",
     "static/media/jobs.1d2878bf.jpg": "/ngcircle-ict/static/media/jobs.1d2878bf.jpg",
-    "static/media/kontakt.efd567cf.jpg": "/ngcircle-ict/static/media/kontakt.efd567cf.jpg",
-    "static/media/logo_mensch.df6bd7fb.jpg": "/ngcircle-ict/static/media/logo_mensch.df6bd7fb.jpg",
+    "static/media/kontakt.83a416c6.jpg": "/ngcircle-ict/static/media/kontakt.83a416c6.jpg",
+    "static/media/logo_mensch.1ee76b20.jpg": "/ngcircle-ict/static/media/logo_mensch.1ee76b20.jpg",
     "static/media/netzwerk.4352cf40.jpg": "/ngcircle-ict/static/media/netzwerk.4352cf40.jpg",
     "static/media/new-globe.f6f716bc.svg": "/ngcircle-ict/static/media/new-globe.f6f716bc.svg",
-    "static/media/ngc_house.df796ee1.jpg": "/ngcircle-ict/static/media/ngc_house.df796ee1.jpg",
-    "static/media/philosophie.28fdfe55.jpg": "/ngcircle-ict/static/media/philosophie.28fdfe55.jpg",
-    "static/media/zukunft.94562aff.png": "/ngcircle-ict/static/media/zukunft.94562aff.png"
+    "static/media/ngc_house.413b0bcf.jpg": "/ngcircle-ict/static/media/ngc_house.413b0bcf.jpg",
+    "static/media/philosophie.a7b1085d.jpg": "/ngcircle-ict/static/media/philosophie.a7b1085d.jpg",
+    "static/media/zukunft.c9f74c1a.png": "/ngcircle-ict/static/media/zukunft.c9f74c1a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8bb7bf6a.js",
     "static/js/2.63ef301f.chunk.js",
     "static/css/main.67b9009c.chunk.css",
-    "static/js/main.d4dd95f0.chunk.js"
+    "static/js/main.2611af9b.chunk.js"
   ]
 }
